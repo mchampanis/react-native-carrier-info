@@ -21,7 +21,10 @@
     "ios",
     "react-component"
   ],
-  "author": "Anarchic Knight <anarchicknight@gmail.com> (http://www.anarchicknight.co.uk)",
+  "contributors": [
+    "Anarchic Knight <anarchicknight@gmail.com> (http://www.anarchicknight.co.uk)",
+    "Michael Champanis"
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/mchampanis/react-native-carrier-info/blob/master/LICENSE"

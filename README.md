@@ -99,8 +99,8 @@ string mobileTechnology() - return radio access technology, e.g. 3g
 
 ### iOS (quick)
 
-1. From inside your project run `npm install mchampanis/react-native-carrier-info --save`
-2. react-native link react-native-carrier-info
+1. From inside your project run `npm install mchampanis/react-native-carrier-info#1.02 --save`
+2. `react-native link react-native-carrier-info`
 
 ### iOS (manual)
 
